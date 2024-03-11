@@ -8,12 +8,6 @@
   .sb {
     display: flex;
     align-items: center;
-    margin: 0 10px; /* Adjust margin between the two sets */
-  }
-  
-  .sb input[type="text"] {
-    padding: 10px;
-    font-size: 16px;
-    margin-right: 5px; /* Adjust spacing between input and paragraph */
+    margin: 10px;
   }
   
